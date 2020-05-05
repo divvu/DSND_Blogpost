@@ -1,7 +1,6 @@
 # DSND_Blogpost
-## Analyzing Boston Airbnb Data
 
-### Insights of Boston Airbnb
+## Analyzing Boston Airbnb Data
 
 ### CRISP-DM Process
 

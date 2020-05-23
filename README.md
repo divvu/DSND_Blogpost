@@ -1,5 +1,3 @@
-# DSND_Blogpost
-
 ## Analyzing Boston Airbnb Data
 Link for the data set https://www.kaggle.com/airbnb/boston
 
